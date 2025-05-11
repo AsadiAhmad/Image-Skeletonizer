@@ -19,3 +19,7 @@ A Python toolkit for extracting the structural skeleton of images using morpholo
 - OpenCV : Best Library for working with images
 - Numpy : Best Library for working with arrays in python
 - MatPlotLib : Library for showing the charts in python
+
+## 🪪 License
+
+This project is licensed under the MIT License.
